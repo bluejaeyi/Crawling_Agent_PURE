@@ -1,0 +1,6 @@
+Source,Relationship,Target,Reason,Evidence URL,Evidence Text
+vtube.id,uses,Cloudflare,"The page states that Jejaring.org provides 'Cloudflare CDN' as part of its premium facilities and 'Cloudflare CDN' within hosting features, indicating use/integration with Cloudflare.",https://jejaring.cc/,"""Cloudflare CDN"" (listed under 'Fasilitas Premium' and also under 'Hosting Gratis' features: ""CPanel / Softaculous / Cloudflare CDN"")"
+vtube.id,uses,cPanel,"The page lists 'CPanel' as part of premium facilities and hosting features, indicating use of cPanel control panel.",https://jejaring.cc/,"""CPanel"" (listed under 'Fasilitas Premium' and 'Hosting Gratis' features: ""CPanel / Softaculous / Cloudflare CDN"")"
+vtube.id,uses,Softaculous,"The page lists 'Softaculous' as part of hosting features, indicating use of Softaculous.",https://jejaring.cc/,"""Softaculous"" (listed under 'Hosting Gratis' features: ""CPanel / Softaculous / Cloudflare CDN"")"
+vtube.id,uses,WordPress,"The page says website creation option uses WordPress, indicating use of WordPress.",https://jejaring.cc/,"""Pertama menggunakan Wordpress"""
+vtube.id,uses,Theme Junkie,"The page states it uses premium Theme Junkie license for WordPress themes, indicating use of Theme Junkie.",https://jejaring.cc/,"""Wordpress memakai lisensi premium Theme Junkie"""
